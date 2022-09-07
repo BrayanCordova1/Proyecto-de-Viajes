@@ -1,0 +1,14 @@
+/*---------------------------------------NECESARIO-----------------------------------------*/
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    user-select: none;
+    height: auto;
+    overflow-x: hidden;
+    width: 100%;
+    background: #171717;
+    color:white;
+}
