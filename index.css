@@ -72,7 +72,8 @@ div {
     height: 2px;
     background: #333;
     transform: scaleX(0);
-    transition: transform 0.7s ease-in-out;
+    transition: transform 0.5s ease-in-out;
+    transition-delay: 0.1s;
     transform-origin: right;
 }
 .menu-busqueda ul li a:hover::before{
