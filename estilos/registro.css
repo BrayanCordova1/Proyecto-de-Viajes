@@ -1,0 +1,103 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    box-shadow: inset 0 0 4px #000000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.formulario {
+    justify-content: center;
+    text-align: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+.formular-div1,
+.formular-div2 {
+    width: 300px;
+}
+
+.formular-div1 {
+    float: left;
+    margin-left: 11%;
+}
+
+.formular-div2 {
+    float: left;
+    margin-left: 23%;
+}
+
+.formulario-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+.formulario-text2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 16.4%;
+}
+
+.formulario-inputs {
+    font-size: 15px;
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    margin-bottom: 60px;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+.formulario-inputs2 {
+    font-size: 15px;
+    margin-top: 10px;
+    width: 808px;
+    height: 30px;
+    margin-bottom: 60px;
+    font-weight: bold;
+    margin-left: 16.4%;
+}
+
+.checkbox-text {
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.form-enviar {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 240px;
+    height: 50px;
+    transition: all ease 1s;
+}
+
+.form-enviar:hover {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 240px;
+    height: 50px;
+    transition: all ease 1s;
+    box-shadow: inset 0 0 0 0 #ffffff;
+}
+
+.form-enviar:hover {
+    margin-left: 2%;
+    width: 260px;
+    pointer-events: auto;
+    box-shadow: inset 300px 0 0 0 #ffffff;
+}

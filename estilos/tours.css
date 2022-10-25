@@ -1,0 +1,64 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    box-shadow: inset 0 0 4px #000000;
+}
+
+#ruta {
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+hr {
+    width: 95%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin: 0 auto;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(66, 66, 66, 0.75), rgba(255, 255, 255, 0));
+}
+
+.img {
+    max-width: 40%;
+    margin: 0px 30px 20px 20px;
+    border: 5px solid grey;
+    border-radius: 10px;
+    float: left;
+}
+
+#ruta h3,
+h4,
+p,
+li {
+    margin-left: 20px;
+
+}
+
+#ruta p {
+    text-align: justify;
+    margin-right: 20px;
+    padding-bottom: 30px;
+}
+
+.kennedy,
+.faro,
+.amor,
+.larcomar,
+.barranco,
+.chorrillos,
+.fraile {
+    margin: 20px;
+    border-radius: 10px;
+}
