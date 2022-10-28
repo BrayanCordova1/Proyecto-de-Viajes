@@ -1,0 +1,8 @@
+.ejemplo {
+    color: aqua;
+    transition: all 1s;
+}
+
+.ejemplo:hover {
+    color: blue
+}

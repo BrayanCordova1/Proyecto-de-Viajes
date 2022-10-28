@@ -12,6 +12,14 @@
     box-shadow: inset 0 0 4px #000000;
 }
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
 img {
     width: 35%;
     margin: 10px;
