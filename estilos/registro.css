@@ -69,6 +69,11 @@ body {
     margin-bottom: 60px;
     font-weight: bold;
     margin-left: 20%;
+    transition: all 1s ease
+}
+
+.formulario-inputs:focus {
+    width: 260px;
 }
 
 .formulario-inputs2 {

@@ -60,19 +60,7 @@ li {
     padding-bottom: 30px;
 }
 
-.kennedy,
-.faro,
-.amor,
-.larcomar,
-.barranco,
-.chorrillos,
-.fraile 
-.taulichusco,
-.galeria,
-.museo,
-.sala,
-.plazuela,
-.centro{
+.ruta{
     margin: 20px;
     border-radius: 10px;
 }
