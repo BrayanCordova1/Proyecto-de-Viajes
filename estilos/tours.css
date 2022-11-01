@@ -60,35 +60,4 @@ li {
     padding-bottom: 30px;
 }
 
-.ruta{
-    margin: 20px;
-    border-radius: 10px;
-}
-/*
-#ruta2 {
-    border: 2px solid black;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
-
-#ruta2 h3,
-h4,
-p{
-    margin-left: 20px;
-
-}
-
-#ruta2 p {
-    text-align: justify;
-    margin-right: 20px;
-    padding-bottom: 30px;
-}
-.img2 {
-    max-width: 40%;
-    margin: 0px 30px 20px 20px;
-    border: 5px solid grey;
-    border-radius: 10px;
-    float: left;
-}*/
+.ruta{margin: 20px;border-radius: 10px;}

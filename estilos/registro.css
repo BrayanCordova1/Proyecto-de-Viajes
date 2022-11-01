@@ -36,7 +36,7 @@ body {
 
 .formular-div1,
 .formular-div2 {
-    width: 300px;
+    width: 278px;
 }
 
 .formular-div1 {
@@ -46,44 +46,51 @@ body {
 
 .formular-div2 {
     float: left;
-    margin-left: 23%;
+    margin-left: 1%;
 }
 
 .formulario-text {
     font-size: 20px;
     font-weight: bold;
-    margin-left: 20%;
+    margin-left: 12%;
 }
 
 .formulario-text2 {
     font-size: 20px;
     font-weight: bold;
-    margin-left: 16.4%;
+    margin-left: 1.4%;
 }
 
 .formulario-inputs {
-    font-size: 15px;
+    background-color: rgb(248, 245, 238);
+    font-size: 12px;
     margin-top: 5px;
-    width: 250px;
+    width: 180px;
     height: 30px;
     margin-bottom: 60px;
     font-weight: bold;
-    margin-left: 20%;
-    transition: all 1s ease
+    margin-left: 15%;
+    padding-left: 5px;
+    transition: all 1s ease;
+    border-radius: 12px
 }
 
 .formulario-inputs:focus {
-    width: 260px;
+    width: 220px;
+    background-color: white;
 }
 
 .formulario-inputs2 {
     font-size: 15px;
     margin-top: 10px;
-    width: 808px;
+    width: 298px;
     height: 30px;
     margin-bottom: 60px;
     font-weight: bold;
-    margin-left: 16.4%;
+    margin-left: 1.4%;
+    margin-bottom: 17%;
+    border-radius: 10px;
+    padding-left: 10px
 }
 
 .checkbox-text {
@@ -109,8 +116,7 @@ body {
 }
 
 .form-enviar:hover {
-    margin-left: 2%;
-    width: 260px;
+    margin-left: 1%;
     pointer-events: auto;
     box-shadow: inset 300px 0 0 0 #ffffff;
 }
