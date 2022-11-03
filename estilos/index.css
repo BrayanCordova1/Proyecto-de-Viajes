@@ -7,7 +7,7 @@
 
 body {
   width: 100%;
-  background-color: beige;
+  background-color: #EDDBC0;
 }
 
 ::-webkit-scrollbar {
@@ -64,7 +64,7 @@ p {
 .cliente {
   width: 150px;
   height: 150px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .d1 {
@@ -78,6 +78,9 @@ p {
   border: 5px solid black;
   margin: 5%;
   margin-bottom: 20px;
+  background-color: #DBC8AC;
+  border-color: #B73E3E;
+  border-radius: 10px;
 }
 
 .sd img {

@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: beige;
+    background-color: #EDDBC0;
 }
 
 ::-webkit-scrollbar {
@@ -22,7 +22,7 @@ body {
 
 #div-medidas {
     border-radius: 5px;
-    display: flex;
+    display: inline-flex;
     flex: row;
     margin-top: 10px;
     margin-bottom: 30px;
