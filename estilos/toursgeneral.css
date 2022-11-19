@@ -28,11 +28,11 @@ body {
     margin-bottom: 30px;
 }
 
-.EnlacesTours{
+.EnlacesTours {
     border: 2px solid black;
     border-radius: 20px;
     background-color: #DBC8AC;
-    margin-left: 1%;
+    margin-left: 0.5%;
     margin-right: 1%;
 }
 
