@@ -14,13 +14,13 @@ div {
 .menu-busqueda {
   position: absolute;
   top: 240px;
-  width: 90%;
+  width: 87.9%;
   height: 30px;
   background-color: rgb(255, 255, 255);
   padding: 20px 40px;
   display: flex;
   border-radius: 20px;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   box-shadow: 0 5px 1px rgb(180, 180, 180);
   margin-left: 2.2%;
@@ -38,7 +38,8 @@ div {
 
 .menu-busqueda ul {
   display: flex;
-  gap: 30px;
+  gap: 35px;
+  margin-left: 4px;
 }
 
 .menu-busqueda ul li {
@@ -51,7 +52,7 @@ div {
   font-size: 16px;
   color: black;
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 8px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
