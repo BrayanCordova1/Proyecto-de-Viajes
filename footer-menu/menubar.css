@@ -36,15 +36,14 @@ div {
   color: black;
   text-decoration: none;
   font-size: 1.5em;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
 }
 
 .menu-busqueda ul {
   display: flex;
-  gap: 35px;
-  margin-left: 4px;
+  gap: 18px;
+  margin-left: 8px;
 }
 
 .menu-busqueda ul li {
