@@ -22,6 +22,17 @@ body {
     background-color: #EDDBC0;
 }
 
+.TMapa {
+    text-align: center;
+}
+
+.Mapa {
+    width: 39%;
+    margin: 10px;
+    border-radius: 10px;
+    border:20px solid #ff874bd8;
+}
+
 img {
     width: 35%;
     margin: 10px;
